@@ -1,14 +1,53 @@
 .title {
     text-align: center;
+    font-size: 100px;
 }
+
 
 .odin {
+    
+    max-width: 200%;
+    max-height: 200%;
     text-align: center;
 }
 
-.butt {
+
+
+
+
+
+.butt-container .butt {
+    
     
     text-align: center;
-    font-size: large;
+    background-color: darkblue;
+    transition-duration: 0.4s;
+    color: white;
+    padding: 15px 32px;
+    display: list-item;
+    font-size: 50px;
+    border-radius: 25px;
+
+    
+}
+
+.butt-container .butt:hover {
+    
+    text-align: match-parent;
+    text-decoration: none;
+    background-color: cornflowerblue;
+    display: match-parent;
+    font-size: match-parent;
+    padding: match-parent;
+    
+    
+}
+
+a {
+    
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
