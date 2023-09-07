@@ -1,8 +1,9 @@
 .title {
     text-align: center;
-    font-size: 50px;
+    font-size: 100px;
   
 }
+
 
 
 .butt-container .butt {
@@ -12,15 +13,14 @@
     background-color: darkblue;
     transition-duration: 0.4s;
     color: white;
-    padding:15px 30px;
+    padding:5px 10px;
     display: list-item;
-    font-size: 10px;
-    border-radius: 10px;
+    font-size: 5px;
+    border-radius: 25px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 5%;
     width: 50%;
-    
-
     
 }
 
@@ -34,10 +34,7 @@
     padding: match-parent;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-    
-    
-    
+    width: 50%;    
 }
 
 a {
@@ -50,17 +47,7 @@ a {
     margin-right: auto;
     width: 50%;
 
-}
-
-html {
-    max-width: 500px;
-    margin: auto;
-    padding: 25px 50px 75px;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    text-align: block;
-  } 
+} 
   
   img {
     display: block;
