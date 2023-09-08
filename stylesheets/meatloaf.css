@@ -1,7 +1,60 @@
 .title {
     text-align: center;
+    color: white;
+    font-size: 100px;
+    background-color: darkblue ;
 }
 
-div {
-    padding: 25px 50px 75px 100px;
+li {
+    text-align: left;
 }
+
+body {
+    background-color: darkgrey;
+    text-align: center;    
+}
+
+
+.ingglaze {
+    display: flex;
+
+}
+
+h3 {
+    margin: 1.5%;
+}
+
+
+
+.ingglaze h-3 {
+    margin-left: 50%;
+}
+
+.garn {
+    
+    
+    margin-top: -10%;
+    margin-left: 41%;
+    display: flex;
+}
+
+
+
+
+
+
+ol {
+    text-align: left;
+}
+
+html {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+  padding: 5px;
+
+}
+
